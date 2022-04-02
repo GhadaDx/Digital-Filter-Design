@@ -1,0 +1,11 @@
+# Digital-Filter-Design
+## Description
+Design a custom digital filter via zeros-poles placement on the z-plane
+
+## Features
+- Modify the placed zeros/poles by dragging them
+- Click on a zero or pole and delete it
+- Clear all zeros or clear all poles or clear all
+- Add conjugates for the complex elements
+- Real-time filtering process
+- Correct for the phase by adding some All-Pass filters
